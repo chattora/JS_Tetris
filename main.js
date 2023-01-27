@@ -1,5 +1,4 @@
 //テトリスメイン
-
 const BLOCK_SIZE_X = 30;
 const BLOCK_SIZE_Y = 30;
 const TETORO_SIZE_X = 4;
